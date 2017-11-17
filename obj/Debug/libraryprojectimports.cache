@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.AppCenter\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Analytics.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.Crashes.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lidaek\Desktop\TipCalculator\TipCalculator\obj\Debug\__library_projects__\Microsoft.AppCenter.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,28 @@
+TipCalculator.MainActivity, TipCalculator;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+TipCalculator.MainActivity, TipCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+TipCalculator.MainActivity;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+tipcalculator.MainActivity;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.AppCenter.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.appcenter.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelGroupListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelGroupListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelGroupListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelListenerImplementor, Microsoft.AppCenter.Android.Bindings;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelListenerImplementor, Microsoft.AppCenter.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+Com.Microsoft.Appcenter.Channel.IChannelListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor;mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor, Microsoft.AppCenter.Crashes.Android.Bindings;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor, Microsoft.AppCenter.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Com.Microsoft.Appcenter.Crashes.ICrashesListenerImplementor;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor;mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor
+Microsoft.AppCenter.Crashes.AndroidCrashListener, Microsoft.AppCenter.Crashes;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+Microsoft.AppCenter.Crashes.AndroidCrashListener, Microsoft.AppCenter.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+Microsoft.AppCenter.Crashes.AndroidCrashListener;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
+microsoft.appcenter.crashes.AndroidCrashListener;md5077d3f1b65f0ebbab0ee71c2383ed9a2.AndroidCrashListener
